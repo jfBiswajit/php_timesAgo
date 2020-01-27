@@ -1,6 +1,6 @@
 ## TimesAgo
 
-This a very handy and powerfull function just call this function with database timestamp (date and time) value and see the magic.
+This a very handy and powerfull function just call this function with database timestamp (date and time) value and see the magic
 
 __Example: 1__
 
